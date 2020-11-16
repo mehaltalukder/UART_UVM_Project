@@ -1,7 +1,5 @@
 /***********************************************************************
- * This file contains the UART Transmitter (TX) and Receiver (RX)
- * The RX can transmit 8 bits of serial data
- * The TX has one start bit, one stop bit and no parity bit
+ * This file includes the UART Transmitter (TX) and Receiver (RX)
  * CLOCKS_PER_BIT is the number of clock cycles required to send 1 byte
  * CLOCKS_PER_BIT = (Frequency of clk)/(Frequency of UART)
  * Example: 25 MHz Clock, 115200 baud rate (bits per second) of UART
