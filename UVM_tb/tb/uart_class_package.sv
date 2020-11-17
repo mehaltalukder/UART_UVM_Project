@@ -1,6 +1,5 @@
 /***********************************************************************
  * This package encapsulates all of the classes that make up the UVM testbench
- * To run this code in your desktop simulator replace the "../class/files/example.svh" with your file location
  * If you are using edaplayground to run this, just remove the "../file/" section and include the uart_class_package.sv in the top_tb_test.sv module (testbench module in edaplayground)
  **********************************************************************/
 `ifndef uart_class_package_exists
